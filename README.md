@@ -1,3 +1,5 @@
+# NOTICE
+**Do not use this program because I am still trying to find a way to get around Getty's cookie system**
 # Scrape-Getty-Images
 Scrape images from Getty Images based on search terms given to it. This can be used to generate datasets of images for research or AI. This is a fork of my [Scrape-Google-Images](https://github.com/flipit001/Scrape-Google-Images).
 
